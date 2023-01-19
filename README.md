@@ -11,10 +11,7 @@
 ![JAVA](https://img.shields.io/badge/JAVA-00AF9C.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=REACT&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
-![MARIADB](https://img.shields.io/badge/MARIA-003545.svg?&style=for-the-badge&logo=mariaDB&logoColor=white)
-
-
-
+![MARIADB](https://img.shields.io/badge/MARIA-003545.svg?&style=for-the-badge&logo=mariaDB&logoColor=white)  
 
 <!--
 **iam6ukk/iam6ukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
