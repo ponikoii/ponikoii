@@ -1,8 +1,6 @@
 ### Thank you for visiting iam6ukk's GitHub 👋
-방문해주셔서 감사합니다!
-<br>
-<br>
-
+방문해 주셔서 감사합니다!
+<br><br>
 
 ### 🧩 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
