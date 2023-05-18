@@ -13,8 +13,8 @@
 ![MARIADB](https://img.shields.io/badge/MARIA-003545.svg?&style=for-the-badge&logo=mariaDB&logoColor=white)  
 <br>
 
-### 🧑‍🎓 solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iam6ukk)](https://solved.ac/iam6ukk/)
+<!-- ### 🧑‍🎓 solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iam6ukk)](https://solved.ac/iam6ukk/) -->
 
 <!--
 **iam6ukk/iam6ukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
