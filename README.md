@@ -1,4 +1,4 @@
-### Thank you for visiting iam6ukk's GitHub 👋
+<!-- ### Thank you for visiting iam6ukk's GitHub 👋
 방문해 주셔서 감사합니다!
 <br><br>
 
@@ -11,7 +11,7 @@
 ![REACT](https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=REACT&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
 ![MARIADB](https://img.shields.io/badge/MARIA-003545.svg?&style=for-the-badge&logo=mariaDB&logoColor=white)  
-<br>
+<br> -->
 
 <!-- ### 🧑‍🎓 solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iam6ukk)](https://solved.ac/iam6ukk/) -->
