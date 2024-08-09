@@ -1,4 +1,4 @@
-### Thank you for visiting ponikoii's GitHub 👋
+### Thank you for visiting iam6ukk's GitHub 👋
 방문해 주셔서 감사합니다!
 
 <br>    
